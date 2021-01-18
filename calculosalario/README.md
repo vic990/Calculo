@@ -1,1 +1,1 @@
-tutorial-crud-en-php
+Calculo de salario no tiene indicaciones
