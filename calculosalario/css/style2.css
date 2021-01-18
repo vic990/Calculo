@@ -1,0 +1,13 @@
+body{
+    background: url(../img/aurora.jpg) no-repeat center center fixed;
+    background-attachment:fixed;
+    background-size:cover;
+}
+.container{
+color:#009432;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+form-control{
+color: #5320b3;
+}
